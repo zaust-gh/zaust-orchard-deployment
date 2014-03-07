@@ -1,3 +1,6 @@
 [submodule "Modules/Orchard.Cw.FeedReader"]
 	path = Modules/Orchard.Cw.FeedReader
 	url = git://github.com/carlwoodhouse/Orchard.Cw.FeedReader.git
+[submodule "Modules/Orchard.Cw.Disqus"]
+	path = Modules/Orchard.Cw.Disqus
+	url = git://github.com/carlwoodhouse/Orchard.Cw.Disqus.git
