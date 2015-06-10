@@ -7,3 +7,6 @@
 [submodule "Themes/Orchard.Cw.Theme"]
 	path = Themes/Orchard.Cw.Theme
 	url = git://github.com/carlwoodhouse/Orchard.Cw.Theme.git
+[submodule "Themes/CorysLaw"]
+	path = Themes/CorysLaw
+	url = git://github.com/zaust-gh/coryslaw-orchard-theme.git
